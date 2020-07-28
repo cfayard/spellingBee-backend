@@ -2,7 +2,7 @@
 
 ## Description
 
-A learning application that helps you practice spelling. Using words from Scripps National Spelling Bee Competition, 
+A learning application that helps you practice spelling. Using words from the Scripps National Spelling Bee Competition, 
 this application will quiz you on how to spell words by hearing the spoken word, along with the definition, and part 
 of speech-just like a spelling bee competition. This application tracks your progress as you work your way through 
 the library of words provided by Scripps.
